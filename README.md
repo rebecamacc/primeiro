@@ -25,3 +25,6 @@ git diff
 
 Mostrar histórico de commits
 git log
+
+Mostrar alterações do último commit
+git show
