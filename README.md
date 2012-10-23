@@ -40,3 +40,6 @@ git branch <nome do branch>
 
 Trocar entre branches
 git checkout <branch>
+
+Fazer diff entre branches
+git diff <branch1> <branch2>
