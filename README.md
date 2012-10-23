@@ -43,3 +43,6 @@ git checkout <branch>
 
 Fazer diff entre branches
 git diff <branch1> <branch2>
+
+Mostrar quem alterou o arquivo linha a linha
+git blame <arquivo>
