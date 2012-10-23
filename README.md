@@ -13,3 +13,6 @@ git add <arquivo>
 
 Como comitar um aqruivo
 git commit -m "Mensagem"
+
+Adicionar e comitar um arquivo (all)
+git commit -am
