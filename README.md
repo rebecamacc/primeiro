@@ -1,5 +1,9 @@
 Curso GIT
 ==========
 
+Configurando nome e email
+git config --global user.name "Nome"
+git config --global user.email "Email"
+
 Como clonar um repositorio
 git clone https://github.com/rebecamacc/primeiro
