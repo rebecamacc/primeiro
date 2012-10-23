@@ -32,4 +32,11 @@ git show
 Voltar o arquivo ao estado original
 git checkout
 
+Trocar de ambiente (branch)
+git branch
 
+Criar um novo brach
+git branch <nome do branch>
+
+Trocar entre branches
+git checkout <branch>
