@@ -28,3 +28,8 @@ git log
 
 Mostrar alterações do último commit
 git show
+
+Voltar o arquivo ao estado original
+git checkout
+
+
