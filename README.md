@@ -1,5 +1,5 @@
-Curso GIT
-==========
+Curso GIT - 0.1
+===============
 
 Configurando nome e email
 git config --global user.name "Nome"
@@ -15,4 +15,13 @@ Como comitar um aqruivo
 git commit -m "Mensagem"
 
 Adicionar e comitar um arquivo (all)
-git commit -am
+git commit -am "Mensagem"
+
+Remover um arquivo
+git rm <arquivo>
+
+Mostrar alteração em arquivos
+git diff
+
+Mostrar histórico de commits
+git log
