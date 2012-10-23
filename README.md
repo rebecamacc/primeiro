@@ -46,3 +46,6 @@ git diff <branch1> <branch2>
 
 Mostrar quem alterou o arquivo linha a linha
 git blame <arquivo>
+
+Fazer um merge entre os branches
+git merge <branch1> <branch2>
